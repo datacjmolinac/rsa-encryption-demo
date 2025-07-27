@@ -25,4 +25,21 @@ The Python script performs:
 
 - Students and professionals exploring quantum threats.
 - Recruiters or employers interested in my background in cybersecurity and quantum computing.
-- Anyone
+Anyone interested in understanding PQC through code.
+
+## 📚 Background
+
+This project is part of a broader research proposal titled:
+
+> *"Post-Quantum Cybersecurity Threats in Local Governments: An Interdisciplinary Approach from a Criminological and Technological Perspective."*
+
+## 🚀 Roadmap
+
+- [x] Quantum attack simulation prototype
+- [ ] Integration with simple GUI
+- [ ] Add post-quantum encryption algorithms (e.g., Kyber, Dilithium)
+- [ ] Benchmark comparison between classical and post-quantum methods
+
+## 📬 Contact
+
+If you are interested in collaboration, academic discussion, or recruitment opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or GitHub.
